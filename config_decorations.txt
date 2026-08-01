@@ -1,0 +1,268 @@
+# 🎨 КРЕАТИВНЫЕ ВАРИАНТЫ ОФОРМЛЕНИЯ ДЛЯ BLACK TUNNEL
+# ============================================
+
+# СТАРЫЙ ВАРИАНТ (текущий):
+#profile-title: base64:4pqhIOKVkCBCTEFDSyBUVU5ORUwg4pWQIOKaoQ==
+#profile-update-interval: 14400
+
+# ============================================
+# ВАРИАНТ 1: 🌙 Cyberpunk Dark
+# ============================================
+#profile-title: base64:8J+RjfCfj7digJIg4oCa4oCs4oG04oG0INCx8PDy8fEDQ7OA==
+#profile-update-interval: 14400
+
+# Moscow XHTTP: 🕳️ 𝐌𝐨𝐬𝐜𝐰 𝐗𝐇𝐓𝐓𝐏 | 𝐎𝐳𝐨𝐧.𝐫𝐮
+# Moscow gRPC: 🇷🇺 𝐌𝐨𝐬𝐜𝐰 𝐠𝐑𝐏𝐂 | 𝐎𝐳𝐨𝐧.𝐫𝐮  
+# MSK: ⚡ 𝐌𝐒𝐊 𝐗𝐇𝐓𝐓𝐏 | 𝐓𝐢𝐦𝐞𝐰𝐞𝐛.𝐜𝐥𝐨𝐮𝐝
+# Finland: 🇫🇮 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐀𝐝𝐁𝐥𝐨𝐜𝐤 | 𝐑𝐮𝐮𝐭𝐮.𝐟𝐢
+# NL: 🇳🇱 𝐍𝐋 𝐗𝐇𝐓𝐓𝐏 | 𝐀𝐇.𝐧𝐥
+
+# ============================================
+# ВАРИАНТ 2: 🏗️ Industrial Hacker
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVsIOKCtSDilqXgqCDigJMg4oCa4oCsINCyIMOXIMODIMTOPA==
+#profile-update-interval: 14400
+
+# Moscow XHTTP: ⚙️ [MSK-TX] ozon.ru :: XHTTP
+# Moscow gRPC: 🚀 [MSK-GRPC] ozon.ru :: gRPC
+# MSK: 🔧 [MSK-FW] timeweb.cloud :: XHTTP  
+# Finland: 🌲 [FI-TX] ruutu.fi :: YouTube Bypass
+# NL: 🇳🇱 [NL-FW] ah.nl :: XHTTP
+
+# ============================================
+# ВАРИАНТ 3: 🌟 Neon Glow
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs4oKs4oOT4oOQ4oGy6YmY
+#profile-update-interval: 14400
+
+# Moscow XHTTP: ☄️ MOSCOW•XHTTP 〘ozon.ru〙
+# Moscow gRPC: 🚀 MOSCOW•gRPC 〘ozon.ru〙
+# MSK: ⭐ MSK•XHTTP 〘timeweb.cloud〙
+# Finland: 🎋 FINLAND•ADBLOCK 〘ruutu.fi〙
+# NL: 🟦 NETHERLANDS•XHTTP 〘ah.nl〙
+
+# ============================================
+# ВАРИАНТ 4: 🔥 Minimalist Emoji
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs4oCc4oCc4oCc4oCc4oCc4oCc
+#profile-update-interval: 14400
+
+# Moscow XHTTP: 🏙️ XHTTP
+# Moscow gRPC: 🚀 gRPC  
+# MSK: ⚡ MSK
+# Finland: 🇫🇮 AD
+# NL: 🇳🇱 NL
+
+# ============================================
+# ВАРИАНТ 5: 🖤 Matrix Style
+# ============================================
+#profile-title: base64:4oaZ4oGt4oG04oG04oG14oG04oG3
+#profile-update-interval: 14400
+
+# Moscow XHTTP: ⬛ MOSCOW_XHTTP | ozon.ru
+# Moscow gRPC: ⬜ MOSCOW_GRPC | ozon.ru
+# MSK: ⬛ MSK_PROXY | timeweb.cloud
+# Finland: ⬜ FINLAND_ADB | ruutu.fi  
+# NL: ⬛ NL_XHTTP | ah.nl
+
+# ============================================
+# ВАРИАНТ 6: 💎 Status Badge Style
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs4oCc4oCc4oCc4oCc4oCc4oCc
+#profile-update-interval: 14400
+
+# Moscow XHTTP: [🟢 ONLINE] MOSCOW | XHTTP | ozon.ru
+# Moscow gRPC: [🟡 ACTIVE] MOSCOW | gRPC | ozon.ru
+# MSK: [🔴 HOT] MSK | XHTTP | timeweb.cloud
+# Finland: [🟢 ACTIVE] FINLAND | AD-BYPASS | ruutu.fi
+# NL: [🔵 FLY] NETHERLANDS | XHTTP | ah.nl
+
+# ============================================
+# ВАРИАНТ 7: 🎮 Gaming Style
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVsINGCO0NOPSDVqA==
+#profile-update-interval: 14400
+
+# Moscow XHTTP: LVL.1 MOSCOW ⚡ XHTTP-POINT
+# Moscow gRPC: LVL.2 MOSCOW 🚀 gRPC-GATE
+# MSK: LVL.3 MSK-STRIKE ⚡ XHTTP
+# Finland: LVL.4 FINLAND 🛡️ AD-BLOCK
+# NL: LVL.5 NETHERLANDS 💨 XHTTP
+
+# ============================================
+# ВАРИАНТ 8: 🏴‍☠️ Pirate Theme
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs4oCc4oCc4oCc4oCc4oCc4oCc
+#profile-update-interval: 14400
+
+# Moscow XHTTP: 🏴‍☠️ MOSCOW PORT (ozon.ru)
+# Moscow gRPC: ⚓ MOSCOW DOCK (ozon.ru)  
+# MSK: ⚔️ MSK STRAIT (timeweb.cloud)
+# Finland: 🗺️ FINLAND COVE (ruutu.fi)
+# NL: 🏝️ DUTCH HARBOUR (ah.nl)
+
+# ============================================
+# ВАРИАНТ 9: 🤖 Robot Style
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs4oCc4oCc4oCc4oCc4oCc4oCc
+#profile-update-interval: 14400
+
+# Moscow XHTTP: 🤖 [BOT-MOS-01] XHTTP_MODULE
+# Moscow gRPC: 🤖 [BOT-MOS-02] GRPC_CORE
+# MSK: 🤖 [BOT-MSK-01] XHTTP_PROTOCOL
+# Finland: 🤖 [BOT-FIN-01] ADBLOCK_ENABLED
+# NL: 🤖 [BOT-NL-01] XHTTP_ENGINE
+
+# ============================================
+# ВАРИАНТ 10: ✨ Premium Gold
+# ============================================
+#profile-title: base64:4oCZ4oKZ4oCa4oG04oG04oG04oCZ
+#profile-update-interval: 14400
+
+# Moscow XHTTP: 🥇 MOSCOW PREMIUM | XHTTP
+# Moscow gRPC: 🥈 MOSCOW ELITE | gRPC
+# MSK: 🥉 MSK PRO | XHTTP
+# Finland: 🏆 FINLAND AD-BLOCK
+# NL: 💎 NETHERLANDS PREMIUM
+
+# ============================================
+# ВАРИАНТ 11: 🌈 Flag Mix
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs4oCc4oCc4oCc4oCc4oCc4oCc
+#profile-update-interval: 14400
+
+# Moscow XHTTP: 🇷🇺 MOSCOW_XHTTP 〘ozon.ru〙
+# Moscow gRPC: 🇷🇺 MOSCOW_GRPC 〘ozon.ru〙
+# MSK: 🇷🇺 MSK_XHTTP 〘timeweb.cloud〙
+# Finland: 🇫🇮 FINLAND_YT 〘ruutu.fi〙
+# NL: 🇳🇱 NL_XHTTP 〘ah.nl〙
+
+# ============================================
+# ВАРИАНТ 12: 🎯 Dot Style
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs
+#profile-update-interval: 14400
+
+# Moscow XHTTP: • MOSCOW • XHTTP •
+# Moscow gRPC: ◦ MOSCOW • gRPC •
+# MSK: ‣ MSK • XHTTP •
+# Finland: • FINLAND • YT •
+# NL: ◦ NL • XHTTP •
+
+# ============================================
+# ВАРИАНТ 13: 🚀 Rocket Fuel
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs
+#profile-update-interval: 14400
+
+# Moscow XHTTP: 🚀▶ MOSCOW-X || ozon.ru
+# Moscow gRPC: 🚀▶ MOSCOW-G || ozon.ru
+# MSK: 🔥▶ MSK-X || timeweb.cloud
+# Finland: 🛰️▶ FIN-YT || ruutu.fi
+# NL: 🌠▶ NL-X || ah.nl
+
+# ============================================
+# ВАРИАНТ 14: 💫 Astro Style
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs4oCc4oCc4oCc4oCc4oCc4oCc
+#profile-update-interval: 14400
+
+# Moscow XHTTP: ⭐ MOSCOW_STAR ● XHTTP
+# Moscow gRPC: ☄️ MOSCOW_COMET ● gRPC
+# MSK: ✨ MSK_NEBULA ● XHTTP
+# Finland: 🌌 FINLAND_SPACE ● YT-BYPASS
+# NL: 💫 NL_GALAXY ● XHTTP
+
+# ============================================
+# ВАРИАНТ 15: 🎪 Carnival Style
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs4oCc4oCc4oCc4oCc4oCc4oCc
+#profile-update-interval: 14400
+
+# Moscow XHTTP: 🎪 MOSCOW CIRCUS 🎯 ozon.ru
+# Moscow gRPC: 🎠 MOSCOW CAROUSEL 🎯 ozon.ru
+# MSK: 🎪 MSK BIGTOP 🎯 timeweb.cloud
+# Finland: 🎢 FINLAND COASTER 🎯 ruutu.fi
+# NL: 🎡 NL FERRIS 🎯 ah.nl
+
+# ============================================
+# ВАРИАНТ 16: 🧊 Ice & Fire
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs
+#profile-update-interval: 14400
+
+# Moscow XHTTP: ❄️ MOSCOW ICE | ozon.ru
+# Moscow gRPC: 🔥 MOSCOW FIRE | ozon.ru
+# MSK: 🧊 MSK FROST | timeweb.cloud
+# Finland: 🔥 FINLAND FLAME | ruutu.fi
+# NL: ❄️ NL ICEBERG | ah.nl
+
+# ============================================
+# ВАРИАНТ 17: 🎬 Movie Style
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs
+#profile-update-interval: 14400
+
+# Moscow XHTTP: 🎥 MOSCOW: XHTTP Protocol
+# Moscow gRPC: 🎬 MOSCOW: gRPC Protocol
+# MSK: 📽️ MSK: XHTTP Short
+# Finland: 🎞️ FINLAND: YouTube Cut
+# NL: 🎟️ NL: XHTTP Feature
+
+# ============================================
+# ВАРИАНТ 18: 🎵 Music Style
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs
+#profile-update-interval: 14400
+
+# Moscow XHTTP: ♪ MOSCOW X-TRACK ♪ ozon.ru
+# Moscow gRPC: ♫ MOSCOW G-BEAT ♫ ozon.ru
+# MSK: 🎵 MSK X-MELODY 🎵 timeweb.cloud
+# Finland: 🎤 FINLAND YT-JAM 🎤 ruutu.fi
+# NL: 🎧 NL X-POP 🎧 ah.nl
+
+# ============================================
+# ВАРИАНТ 19: 🍕 Food Style
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs4oCc4oCc4oCc4oCc4oCc4oCc
+#profile-update-interval: 14400
+
+# Moscow XHTTP: 🥩 MOSCOW STEAK | XHTTP
+# Moscow gRPC: 🍖 MOSCOW BORSCHT | gRPC
+# MSK: 🥟 MSK PELMENI | XHTTP
+# Finland: 🍟 FINLAND FISH | ADBlock
+# NL: 🥞 NL PANCAKES | XHTTP
+
+# ============================================
+# ВАРИАНТ 20: 🏆 Sport Style
+# ============================================
+#profile-title: base64:QmxhY2sgVHVubmVs
+#profile-update-interval: 14400
+
+# Moscow XHTTP: 🥇 MOSCOW TEAM • XHTTP
+# Moscow gRPC: 🥈 MOSCOW RACE • gRPC
+# MSK: 🥉 MSK LEAGUE • XHTTP
+# Finland: ⚽ FINLAND CUP • ADBlock
+# NL: 🏆 NL CHAMPION • XHTTP
+
+# ============================================
+# Готовые варианты с полными названиями серверов:
+# ============================================
+
+# 🎯 ОПТИМАЛЬНЫЙ (мне нравится):
+#profile-title: base64:QmxhY2sgVHVubmVsINGN8J2PjyBvY3LDkSDRz97Yj9TQ
+
+# Moscow XHTTP: 🚀 MOSCOW XHTTP | ozon.ru | 🇷🇺
+# Moscow gRPC: ⚡ MOSCOW gRPC | ozon.ru | 🇷🇺
+# MSK: 🔥 MSK XHTTP | timeweb.cloud | 🇷🇺
+# Finland: 🌲 FINLAND AdBlock | ruutu.fi | 🇫🇮
+# NL: 🇳🇱 NL XHTTP | ah.nl | 🇳🇱
+
+# ============================================
+# 📊 Технические детали серверов:
+# ============================================
+# 1. Moscow XHTTP - 77.110.113.220:443, SNI: ozon.ru, fp: firefox
+# 2. Moscow gRPC - 109.69.20.135:443, SNI: ozon.ru, fp: chrome
+# 3. MSK (закомментирован) - 217.149.22.142:443, SNI: timeweb.cloud, fp: firefox
+# 4. Finland gRPC - 185.232.204.223:443, SNI: ruutu.fi, fp: chrome
+# 5. NL XHTTP - 89.124.68.92:8443, SNI: ah.nl, fp: firefox
