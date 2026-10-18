@@ -1,5 +1,5 @@
 #profile-title: base64:4pW+IEJMQUNLIFRVTk5FTCDilbw=
-#profile-update-interval: 12
+#profile-update-interval: 4
 
-vless://b761e48c-18d9-4c2c-81f9-4b0c04ccffca@109.69.20.135:443?encryption=none&fp=chrome&host=www.wildberries.ru&mode=auto&path=%2Fapi%2Fv2%2Fcatalog%2Flist&pbk=O1CwHCpeEcAx7RSHqaYIpCQvSPc5iN5-qvQFxVRzAW8&security=reality&sid=217c&sni=www.wildberries.ru&spx=%2F&type=xhttp&x_padding_bytes=817-869&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22817-869%22%7D#🌍 Moscow
-vless://e75b3abc-534b-4756-b3bb-a9d32a93ace2@185.232.204.223:443?encryption=none&fp=firefox&host=www.ruutu.fi&mode=auto&path=%2Fapi%2Fv2%2Fcatalog%2Fsync&pbk=iZL96SixHGutX8wOFS13AbchNiaqJZYhhvh-9Mytrms&security=reality&sid=3ab90b30&sni=www.ruutu.fi&spx=%2F&type=xhttp&x_padding_bytes=450-837&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22450-837%22%7D#🌍 Finland
+vless://2069b8f6-a4ad-4c8a-859f-51d22d1c39b2@109.69.20.135:443?encryption=none&fp=firefox&host=www.wildberries.ru&mode=auto&path=%2Fapi%2Fv2%2Fcatalog%2Flist&pbk=O1CwHCpeEcAx7RSHqaYIpCQvSPc5iN5-qvQFxVRzAW8&security=reality&sid=217c&sni=www.wildberries.ru&spx=%2F&type=xhttp&x_padding_bytes=128-226&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22128-226%22%7D#🌍 Moscow
+vless://17a3b603-8205-4df7-83ed-ddbfa57993da@185.232.204.223:443?encryption=none&fp=firefox&host=www.ruutu.fi&mode=auto&path=%2Fapi%2Fv2%2Fcatalog%2Fsync&pbk=iZL96SixHGutX8wOFS13AbchNiaqJZYhhvh-9Mytrms&security=reality&sid=3ab90b30&sni=www.ruutu.fi&spx=%2F&type=xhttp&x_padding_bytes=681-773&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22681-773%22%7D#🌍 Finland
