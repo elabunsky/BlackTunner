@@ -1,0 +1,1 @@
+vless://3a68b222-438d-4e96-ac2f-b23e43cfafbf@212.57.118.202:443?encryption=none&security=reality&sni=cdnsync.fedya-sbp.ru&fp=firefox&pbk=9p3-73GSS_QF8ZlyoKYI_8i4wFTA6q9hDPEAbcJQaVw&sid=78ac5b67b5e5b32b&spx=%2F&type=grpc&serviceName=cdn-grpc-test-e56d8e70fc8f&mode=gun#Moscow-CDNSYNC-gRPC-REALITY-TEST
