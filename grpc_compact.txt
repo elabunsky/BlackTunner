@@ -1,0 +1,1 @@
+vless://869366df-0002-467c-be6f-9e7fa7cf9eb8@cdnsync.fedya-sbp.ru:2443?encryption=none&security=tls&sni=cdnsync.fedya-sbp.ru&type=grpc&serviceName=grpc&path=grpc&mode=gun#Moscow-CDNSYNC-gRPC-TLS-Compat
